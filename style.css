@@ -1,0 +1,29 @@
+h1 {
+    color : blue;
+    text-decoration : underline;
+   }
+
+.span1 {
+color: fuchsia;
+border: solid 1px fuchsia;
+text-indent: 20%;
+}
+
+.p2 {
+    text-align: center;
+    font-size: 12px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+}
+
+.p3 {
+    color: floralwhite;
+    background-color: crimson;
+    font-size: 30px;
+    width: 500px 500px;
+    position: relative;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}

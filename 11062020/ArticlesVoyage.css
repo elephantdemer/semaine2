@@ -1,0 +1,54 @@
+header {
+    color: floralwhite;
+    background-color: orange;
+    font-size: 25px;
+    padding-top: 15px;
+    padding-left: 50px;
+    padding-bottom: 15px;
+    position: relative;
+    font-weight: bold;
+}
+
+body {
+    margin: 0px 0px 0px 0px;
+}
+
+.home {
+    font-size: 20px;
+    color: white;
+    font-weight: bolder;
+    border: solid 2px orangered;
+    text-indent: 20%;
+    margin-left: 30px;
+    background-color: orangered;
+    border-radius: 7px;
+    text-decoration-color: orangered;
+}
+
+h1 {
+    font-size: 20px;
+    padding-left: 50px;
+    text-decoration: underline;
+    color: orange;
+}
+
+img {
+    padding-top: 25px;
+    padding-left: 50px;
+    width: 500px;
+    height: 300px;
+}
+
+article {
+    width: 500px;
+    height: 300px;
+    text-align: justify;
+    padding-top: 30px;
+    padding-left: 50px;
+    font-size: 12px;
+}
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
